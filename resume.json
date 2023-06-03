@@ -2,158 +2,188 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Deniz Satır",
-    "label": "Web Developer",
-    "image": "avatar.jpg",
+    "label": "Fullstack Web Developer",
+    "image": "https://raw.githubusercontent.com/deniznehlyadyuk/cv/ce59fbc37e0ecd28873bcc5897dc4e924bf67d47/avatar.jpg",
     "email": "denizsatirr@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "http://richardhendricks.example.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "+90 553 117 3456",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Kocaeli,",
+      "countryCode": "Türkiye"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "denizsatir",
+        "url": "https://www.linkedin.com/in/deniz-satir"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
+        "network": "YouTube",
+        "username": "denizsatir",
+        "url": "https://www.youtube.com/channel/UCV5IEK-u2GCRv4Rs9SR2Bfw"
       }
     ]
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "name": "Gravity Robotik",
+      "location": "Kocaeli, Türkiye",
+      "description": "Robotik, Otomasyon & Mühendislik",
+      "position": "Fullstack Web Developer | Freelancer",
+      "startDate": "2022-12-01",
+      "summary": "Backend tarafında Python; frontend tarafında React.Js kullanarak Servis Yönetimi projesi üzerine geliştirmelerde bulundum.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Mikroservis Mimarisi",
+        "DjangoRestFramework",
+        "RabbitMQ",
+        "Flask",
+        "Docker",
+        "Docker Swarm",
+        "Traefik",
+        "Portainer",
+        "Kong",
+        "React Native",
+        "Redis",
+        "PostgreSQL"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "name": "Mosstar",
+      "location": "İstanbul, Türkiye",
+      "description": "Yazılım Danışmalığı",
+      "position": "Fullstack Web Developer",
+      "startDate": "2021-06-01",
+      "endDate": "2022-11-01",
+      "summary": "Backend tarafında ASP.NET Core; frontend tarafında Nuxt.Js kullanarak E-İstatistik projesi üzerine geliştirmelerde bulundum.",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "ASP.NET Core",
+        "PostgreSQL",
+        "EntityFramework",
+        "AutoMapper",
+        "FluentValidation",
+        "ABP Framework",
+        "CQRS",
+        "Autofac",
+        "Nuxt.Js",
+        "State Management"
+      ]
+    },
+    {
+      "name": "Spectre Robotiks",
+      "location": "Düzce, Türkiye",
+      "description": "Eğitim & Danışmanlık",
+      "position": "Eğitmen",
+      "startDate": "2019-02-01",
+      "endDate": "2019-09-01",
+      "summary": "Farklı öğrenci gruplarına (üniversite, lise, ortaokul) yazılım üzerine eğitimler verdim.",
+      "highlights": [
+        "Algoritme & Programlama",
+        "Python",
+        "Veritabanı tasarımı",
+        "SQL",
+        "Elektrik & Elektronik",
+        "Arduino"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "institution": "Düzce Üniversitesi",
+      "url": "https://duzce.edu.tr/",
+      "area": "Bilgisayar Mühendisliği",
+      "studyType": "Lisans",
+      "startDate": "2018-09-01",
+      "endDate": "2023-06-01",
+      "score": "3.15"
     }
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "Eğitim Videoları",
+      "publisher": "YouTube",
+      "url": "https://www.youtube.com/@deniznehlyadyuk4447/videos",
+      "summary": "Bilgisayar mühendisliği alanındaki çeşitli konular hakkında eğitim videoları yayınladığım platform."
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Backend",
+      "level": "Çok İyi",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        ".NET",
+        "Django",
+        "Django Rest Framework",
+        "Flask",
+        "Mikroservis Mimarisi",
+        "Monolitik Mimari"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Cloud",
+      "level": "İyi",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Docker",
+        "Docker Swarm",
+        "RabbitMQ",
+        "Portainer",
+        "Traefik",
+        "Kong",
+        "Grafana",
+        "Prometheus"
       ]
-    }
-  ],
-  "languages": [
+    },
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "name": "Veritabanı",
+      "level": "İyi",
+      "keywords": [
+        "PostgreSQL",
+        "Redis",
+        "MongoDb"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "İyi",
+      "keywords": [
+        "Vue.Js",
+        "Nuxt.Js",
+        "React",
+        "React Query",
+        "JWT Authentication"
+      ]
+    },
+    {
+      "name": "Mobil",
+      "level": "Orta",
+      "keywords": [
+        "React Native"
+      ]
+    },
+    {
+      "name": "Diğer",
+      "level": "Orta",
+      "keywords": [
+        "Java",
+        "Optaplanner"
+      ]
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Masa Tenisi",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Turnuvalar",
+        "Yarışmalar"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
-      "roles": [
-        "Team lead",
-        "Designer"
-      ],
-      "entity": "Smoogle",
-      "type": "application"
+      "name": "Servis Yönetim Uygulaması",
+      "description": "Özel bir şirket için geliştirdiğim bu uygulamada, çalışanların evden işe ve işten eve transferini sağlamak için Optaplanner kullanarak yol optimizasyonu yaptım. Çalışanların kullanabilmesi için mobil uygulamayı React Native ile; yöneticilerin kullanacağı web uygulamayı React ile yaptım. Authentication yöntemi olarak JWT kullandım. Mimari olarak mikroservis mimarisini kullandım."
+    },
+    {
+      "name": "E-İstatistik",
+      "description": "Ulaştırma ve Altyapı bakanlığının bünyesinde bulunan Strateji Geliştirme Başkanlığı için geliştirdiğim bu uygulamada, dönemsel olarak gelen verilerin girişinin yapılabileceği ve daha sonra bu veriler üzerinden farklı işlemler gerçekleştirerek raporların alınabileceği bir uygulamayı hayata geçirdim. Monolitik mimari ile birlikte backend tarafında ASP.NET Core; frontend tarafında Nuxt.Js kullandım. Authentication işlemi için Keycloak ile birlikte SSO kullandım."
     }
   ],
   "meta": {
